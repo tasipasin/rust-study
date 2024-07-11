@@ -1,0 +1,1 @@
+This study is being made using the book available on Rust Website: https://doc.rust-lang.org/book/
