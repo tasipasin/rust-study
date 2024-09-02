@@ -1,0 +1,9 @@
+[lib]
+# Declares the crate as a procedural macro.
+proc-macro = true
+
+[dependencies]
+# Parses Rust code from a string into a data structure that allows operations
+syn = "2.0"
+# Turns syn data structure back into Rust code
+quote = "1.0"

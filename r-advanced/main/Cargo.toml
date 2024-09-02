@@ -1,0 +1,8 @@
+[package]
+name = "main"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+hello_macro = "0.1.0"
+hello_macro_derive = "0.1.0"
